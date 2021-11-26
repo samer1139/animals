@@ -2,3 +2,5 @@
 1- horse 
 2- tiger
 3- lion
+4-giraffe
+5-monkey
